@@ -1,0 +1,6 @@
+Algoritmo,Acurácia (CV)
+Support Vector Machine,0.758840579710145
+Random Forest,0.7544927536231885
+K-Nearest Neighbors,0.7370048309178744
+Logistic Regression,0.7238647342995168
+Decision Tree,0.7105314009661836
